@@ -62,10 +62,13 @@ The Intruder module was explored to understand automated HTTP request testing.
 
 The results were compared based on response status and response length.
 
+#### LOGIN - POST
+
 <img width="1275" height="722" alt="image" src="https://github.com/user-attachments/assets/de8b8218-8b9d-4ae9-84ef-3d85976d4b33" />
 
 <img width="1482" height="622" alt="image" src="https://github.com/user-attachments/assets/131703de-13c6-4f48-8fd1-211e08993724" />
 
+The successful login message appears in the GET response following the redirect, not necessarily in the original POST response.
 
 
 ## 7. Results
