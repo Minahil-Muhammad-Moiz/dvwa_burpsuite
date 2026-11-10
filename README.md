@@ -70,6 +70,11 @@ The results were compared based on response status and response length.
 
 The successful login message appears in the GET response following the redirect, not necessarily in the original POST response.
 
+#### GREP MATCH
+<img width="1267" height="691" alt="image" src="https://github.com/user-attachments/assets/3333a745-7138-4c2f-bc7e-eeaeffef8c4c" />
+<img width="1715" height="836" alt="image" src="https://github.com/user-attachments/assets/7381021a-a834-4c9a-ae6a-3c0060a2b6af" />
+
+
 
 ## 7. Results
 
