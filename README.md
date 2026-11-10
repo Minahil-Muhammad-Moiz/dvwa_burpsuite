@@ -74,6 +74,10 @@ The successful login message appears in the GET response following the redirect,
 <img width="1267" height="691" alt="image" src="https://github.com/user-attachments/assets/3333a745-7138-4c2f-bc7e-eeaeffef8c4c" />
 <img width="1715" height="836" alt="image" src="https://github.com/user-attachments/assets/7381021a-a834-4c9a-ae6a-3c0060a2b6af" />
 
+#### CLUSTER BOMB ATTACK 
+<img width="1281" height="757" alt="image" src="https://github.com/user-attachments/assets/797ea87c-b4e1-4386-b122-e0383600e766" />
+
+<img width="1477" height="827" alt="image" src="https://github.com/user-attachments/assets/869ef787-80e3-4541-9980-5e6096bb4d37" />
 
 
 ## 7. Results
